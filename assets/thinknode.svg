@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 230" role="img" aria-label="Think, reason, challenge and transfer progression">
+  <defs>
+    <linearGradient id="line" x1="70" y1="115" x2="690" y2="115" gradientUnits="userSpaceOnUse"><stop stop-color="#8B5CF6"/><stop offset=".48" stop-color="#3B82F6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <radialGradient id="node"><stop stop-color="#E0F2FE"/><stop offset=".18" stop-color="#67E8F9"/><stop offset=".52" stop-color="#6366F1"/><stop offset="1" stop-color="#312E81"/></radialGradient>
+  </defs>
+  <rect x="12" y="12" width="736" height="206" rx="24" fill="rgba(22,27,46,.72)" stroke="rgba(139,92,246,.38)"/>
+  <path d="M110 115H650" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" opacity=".8"/>
+  <g fill="none" stroke="#22D3EE" stroke-width="8" opacity=".18"><circle cx="110" cy="115" r="54"/><circle cx="290" cy="115" r="54"/><circle cx="470" cy="115" r="54"/><circle cx="650" cy="115" r="54"/></g>
+  <g fill="url(#node)" stroke="#C4B5FD" stroke-width="2"><circle cx="110" cy="115" r="28"/><circle cx="290" cy="115" r="28"/><circle cx="470" cy="115" r="28"/><circle cx="650" cy="115" r="28"/></g>
+  <g fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="800" text-anchor="middle"><text x="110" y="175">THINK</text><text x="290" y="175">REASON</text><text x="470" y="175">CHALLENGE</text><text x="650" y="175">TRANSFER</text></g>
+  <g fill="#A78BFA" font-family="Inter,Arial,sans-serif" font-size="12" text-anchor="middle"><text x="110" y="196">independent attempt</text><text x="290" y="196">quality analysis</text><text x="470" y="196">counterexample</text><text x="650" y="196">new context</text></g>
+  <rect x="82" y="45" width="56" height="6" rx="3" fill="#22D3EE" opacity=".85"/><rect x="262" y="45" width="56" height="6" rx="3" fill="#60A5FA" opacity=".85"/><rect x="442" y="45" width="56" height="6" rx="3" fill="#A78BFA" opacity=".85"/><rect x="622" y="45" width="56" height="6" rx="3" fill="#22D3EE" opacity=".85"/>
+</svg>

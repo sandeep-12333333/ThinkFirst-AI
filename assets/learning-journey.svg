@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330" role="img" aria-label="Illustration of a student tracing an independent reasoning journey">
+  <defs>
+    <linearGradient id="panel" x1="40" y1="20" x2="470" y2="310" gradientUnits="userSpaceOnUse"><stop stop-color="#171d36"/><stop offset="1" stop-color="#102d3b"/></linearGradient>
+    <linearGradient id="path" x1="82" y1="254" x2="435" y2="74" gradientUnits="userSpaceOnUse"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  </defs>
+  <rect x="8" y="8" width="504" height="314" rx="34" fill="url(#panel)" stroke="#334155"/>
+  <circle cx="430" cy="66" r="34" fill="#8b5cf6" opacity=".16"/><circle cx="430" cy="66" r="14" fill="#a78bfa" opacity=".9"/>
+  <path d="M82 252C142 252 144 194 206 194c76 0 70-112 148-112 40 0 58 24 88 24" fill="none" stroke="url(#path)" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 15"/>
+  <circle cx="82" cy="252" r="19" fill="#101827" stroke="#8b5cf6" stroke-width="5"/><circle cx="206" cy="194" r="19" fill="#101827" stroke="#7c9cf5" stroke-width="5"/><circle cx="354" cy="82" r="19" fill="#101827" stroke="#22d3ee" stroke-width="5"/><circle cx="442" cy="106" r="19" fill="#101827" stroke="#67e8f9" stroke-width="5"/>
+  <path d="M82 252l6-22 20-9 11 20-18 17Z" fill="#f8fafc"/><path d="M196 194l10-24 22 4 5 21-19 12Z" fill="#dbeafe"/><path d="M342 82l12-25 22 8 2 23-22 12Z" fill="#cffafe"/><path d="M432 106l10-24 22 9 1 22-21 11Z" fill="#e0e7ff"/>
+  <g fill="#94a3b8"><rect x="60" y="286" width="95" height="8" rx="4"/><rect x="173" y="286" width="132" height="8" rx="4"/><rect x="323" y="286" width="112" height="8" rx="4"/></g>
+  <g fill="#e2e8f0" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700"><text x="58" y="278">Think</text><text x="180" y="278">Reason</text><text x="323" y="278">Challenge</text><text x="410" y="278">Transfer</text></g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="ThinkFirst prism compass logo">
+  <defs>
+    <linearGradient id="bg" x1="16" y1="8" x2="112" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="32" fill="#101827"/>
+  <circle cx="64" cy="64" r="42" fill="none" stroke="url(#bg)" stroke-width="6"/>
+  <path d="M64 24 89 88 64 104 39 88Z" fill="none" stroke="#e8efff" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M64 24 64 104M39 88l50-64M89 88l-50-64" fill="none" stroke="#66d9ef" stroke-width="3" opacity=".75"/>
+  <circle cx="64" cy="64" r="8" fill="#f8fafc" stroke="#8b5cf6" stroke-width="4"/>
+  <circle cx="64" cy="24" r="5" fill="#a78bfa"/><circle cx="89" cy="88" r="5" fill="#22d3ee"/><circle cx="39" cy="88" r="5" fill="#22d3ee"/>
+</svg>
